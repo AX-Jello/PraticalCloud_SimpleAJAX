@@ -1,0 +1,41 @@
+h1 {
+    font-family: David;
+    text-align: center;
+    font-size: 3em;
+}
+
+label {
+    font-family: David;
+    font-size: 1.5em;
+}
+
+input {
+    font-size: 1.2em;
+}
+
+button {
+    font-family: David;
+    font-size: 1.5em;
+}
+
+.table {
+    display: table;
+    width: 100%;
+}
+
+.tableRow {
+    display: table-row;
+}
+
+.tableCell {
+    border: 1.2px solid #000000;
+    background-color: #c0e0e3;
+    display: table-cell;
+    padding: 6px 10px;
+    font-size: 1.1em;
+    font-family: Arial;
+}
+
+.tableBody {
+    display: table-row-group;
+}
